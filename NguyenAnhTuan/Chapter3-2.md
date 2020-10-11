@@ -1,5 +1,4 @@
-# 2. Give a one or two paragraph explanation for how the inheritance hierarchy can affect
-controllability and observability.
+# 2. Give a one or two paragraph explanation for how the inheritance hierarchy can affect controllability and observability.
 
 - Việc có một cây kế thừa của các lớp có thể phức tạp hóa việc kiểm thử, vì các lớp con phụ
 thuộc vào cha nó, nghĩa là nếu ta sửa đổi hoặc cập nhật gì đó trong lớp cha, nó sẽ ảnh hưởng
